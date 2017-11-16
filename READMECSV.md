@@ -7,7 +7,7 @@ Servicio de búsqueda básico, el cual recibe una búsqueda como string y devuel
 
 Método con MySQL Workbench
 
-1. Al hacer click con botón derecho se debe seleccionar "Table Data Export Wizard"
+1. Al hacer click con botón derecho sobre la tabla se debe seleccionar "Table Data Export Wizard"
 2. Seleccionar el archivo .csv
 3. Asociar cada columna de la tabla en el mismo orden que lo tiene el .csv
 4. Click en "Next" para ejecutar.
