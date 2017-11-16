@@ -1,4 +1,8 @@
 <?php
+
+/* VARIABLE PARA HEROKU POSTGRES */
+//$dbopts = parse_url(getenv('DATABASE_URL'));
+
 return [
     /**
      * Debug Level:
